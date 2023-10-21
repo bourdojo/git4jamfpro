@@ -2,6 +2,6 @@
 
 echo "Hello World!"
 
-echo "Testing via Jenkins AUTOMATED ON PUSH! Token... and JSON? SSL no inspect?"
+echo "Testing via Jenkins AUTOMATED ON PUSH! Token... and JSON? Job in the URL?"
 
 exit 0
